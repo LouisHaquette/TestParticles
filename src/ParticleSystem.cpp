@@ -149,4 +149,3 @@ void ParticleSystem::resetParticle(std::size_t index)
     //reset the vertex position
     m_vertices[index].position = m_emitter;
 }
-
